@@ -2,6 +2,12 @@
 
 An interactive, full-stack **MERN-based Learning Management System (LMS)** that enables instructors to create and share online courses with embedded video content, and students to enroll and learn seamlessly.
 
+## 🔗 Live Demo
+
+👉 [edemy.live](https://lms-delta-six.vercel.app/)  
+
+
+
 ## 🚀 Key Features
 
 - 🎥 **Embedded YouTube Videos**
